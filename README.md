@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ammar Ahmad [@AmmarAhmey]
+- 👀 I’m interested in Deep Learning/Neural Networks, Data Mining and Natural Language Processing 
+- 🌱 I’m currently learning Advanced Topics in Neural Networks, Advanced Data Mining and NLP as a PhD Student at COMSATS University Islamabad, Pakistan. 
+- 📫 You can reach my via Twitter/AmmarAhemey or Facebook/AmmarAhmey
